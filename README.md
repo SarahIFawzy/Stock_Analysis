@@ -11,4 +11,4 @@ This project was to analyze large amounts of market data across three years.
 * The scriipt then repeats that analysis for the following years
 
 
-[img](./Stock_Analysis/blob/main/2018%20Worksheet%20Screenshot.png)
+[img](./2018%20Worksheet%20Screenshot.png)
