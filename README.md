@@ -11,4 +11,4 @@ This project was to analyze large amounts of market data across three years.
 * The scriipt then repeats that analysis for the following years
 
 
-[img](./C:\Users\sarah\OneDrive\Desktop\Data_Analysis_Bootcamp\Module 02\Challenge\Screen Shots\2018 Worksheet Screenshot.png)
+[img](C:\Users\sarah\OneDrive\Desktop\Data_Analysis_Bootcamp\Module 02\Challenge\Screen Shots\2018 Worksheet Screenshot.png)
